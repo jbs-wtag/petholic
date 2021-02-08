@@ -1,2 +1,2 @@
 # petholic
-A project to practise ruby on rails 
+A web app for the pet lovers in our lives. 
